@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\bin\Debug\netcoreapp3.1\Atividades-de-La-os.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Atividades-de-La-os\obj\Debug\netcoreapp3.1\Atividades-de-La-os.genruntimeconfig.cache
